@@ -134,13 +134,14 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    float: left;
 }
 
 .online-reputation-management {
@@ -162,7 +163,8 @@ p {
 }
 
 .search-engine-optimization img {
-    max-height: 200px;
+  max-height: 200px;
+  height: auto;
 }
 
 .online-reputation-management img {
