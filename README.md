@@ -2,6 +2,7 @@
 
 # Contributors 
 
+* Xander Rapstine <Xandromus>
 * Chandler Beck <beckonator25@gmail.com>
 
 # Getting Started
@@ -15,6 +16,6 @@
 # Task
 
 * Changed stylesheet to open with html
-* Chnaged image src to properly load
+* Changed image src to properly load
 * Added comments
 
