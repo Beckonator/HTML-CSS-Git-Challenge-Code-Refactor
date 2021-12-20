@@ -16,4 +16,5 @@
 
 * Changed stylesheet to open with html
 * Chnaged image src to properly load
+* Added comments
 
