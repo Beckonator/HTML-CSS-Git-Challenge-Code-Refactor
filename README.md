@@ -1,6 +1,7 @@
 # Code Refactor Starter Code
 # Contributors 
 
+* Xander Rapstine <Xandromus>
 * Chandler Beck <beckonator25@gmail.com>
 
 # Getting Started
