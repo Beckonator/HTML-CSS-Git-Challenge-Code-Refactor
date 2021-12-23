@@ -1,5 +1,4 @@
 # Code Refactor Starter Code
-
 # Contributors 
 
 * Xander Rapstine <Xandromus>
@@ -18,4 +17,3 @@
 * Changed stylesheet to open with html
 * Changed image src to properly load
 * Added comments
-
