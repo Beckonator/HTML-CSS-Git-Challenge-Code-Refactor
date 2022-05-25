@@ -1,19 +1,26 @@
 # Code Refactor Starter Code
-# Contributors 
 
-* Xander Rapstine <Xandromus>
-* Chandler Beck <beckonator25@gmail.com>
+## Contributors
 
-# Getting Started
+- Xander Rapstine <Xandromus>
+- Chandler Beck <beckonator25@gmail.com>
 
-* Open code in defualt browser to view website
+## Getting Started
 
-# Assets
+- Open url https://beckonator.github.io/HTML-CSS-Git-Challenge-Code-Refactor/ in defualt browser to view website
 
-* The following website demonstrates Search Engine Optimization (SEO) and other resources
+- <img src="
 
-# Task
+## Built with
 
-* Changed stylesheet to open with html
-* Changed image src to properly load
-* Added comments
+- Utilities : html 5 and css 3
+
+## Tasks
+
+- Changed name of website
+- Changed stylesheet to open with html
+- Added Alt attirbutes to image src
+- Added comments in HTML and CSS
+- Utilizied
+
+## Contact Information
